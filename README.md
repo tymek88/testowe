@@ -1,1 +1,2 @@
 # testowe
+Moje pierwsze repozytorium
